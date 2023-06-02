@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685683850 source:c:\users\amirak\desktop\anirak_ia\juego 15_astar\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<random>
+	<limits>
+
